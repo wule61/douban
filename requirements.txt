@@ -14,7 +14,7 @@ et-xmlfile==1.0.1
 future==0.17.1
 grpcio==1.22.0
 grpcio-tools==1.22.0
-httplib2==0.13.0
+httplib2==0.18.0
 idna==2.8
 itsdangerous==1.1.0
 itypes==1.1.0
