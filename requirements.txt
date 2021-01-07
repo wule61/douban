@@ -22,7 +22,7 @@ jdcal==1.4.1
 Jinja2==2.10.1
 joblib==0.13.2
 kombu==4.6.3
-lxml==4.4.2
+lxml==4.6.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 numpy==1.16.4
